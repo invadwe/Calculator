@@ -1,5 +1,0 @@
-suma: 2 3,4 5,7 9
-produs: 2 6,5 8,9 3
-par: 4 7 9
-prim: 3 6 7
-produs: 4 6,1 2
